@@ -6,11 +6,11 @@
 ### Технологии  
 Используемое ПО:
 python 3.9
-Django==3.2.16
-djangorestframework==3.12.4
-djangorestframework-simplejwt==4.7.2
-Pillow==9.3.0
-PyJWT==2.1.0
+Django
+djangorestframework
+djangorestframework-simplejwt
+Pillow
+PyJWT
 ### Как запустить проект:
 https://github.com/VoznayaOlga/api_final_yatube.git
 
